@@ -1,4 +1,4 @@
-# Codtech Java Internship – Task 3: Multithreaded Chat Application
+# Task 3: Multithreaded Chat Application
 
 ---
 
